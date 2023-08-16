@@ -2,7 +2,7 @@
 - `CLOUDFLARE_API_KEY`: Your Cloudflare API key
 - `CLOUDFLARE_ACCOUNT_ID`: Your Cloudflare account ID
 - `CLOUDFLARE_ACCOUNT_EMAIL`: Your Cloudflare account email
-- `CLOUDFLARE_LOCATION_ID`: Your Cloudflare account ID
+- `CLOUDFLARE_LOCATION_ID`: Your Cloudflare location ID
 - `CLOUDFLARE_LOCATION_NAME`: Your Cloudflare location name
 - `DDNS_HOSTNAME`: Your DDNS name
 
