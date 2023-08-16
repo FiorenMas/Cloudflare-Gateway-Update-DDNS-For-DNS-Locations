@@ -2,8 +2,8 @@
 - `CLOUDFLARE_API_KEY`: Your Cloudflare API key
 - `CLOUDFLARE_ACCOUNT_ID`: Your Cloudflare account ID
 - `CLOUDFLARE_ACCOUNT_EMAIL`: Your Cloudflare account email
-- 'CLOUDFLARE_LOCATION_ID': Your Cloudflare account ID
-- 'CLOUDFLARE_LOCATION_NAME': Your Cloudflare location name
-- 'DDNS_HOSTNAME': Your DDNS name
+- `CLOUDFLARE_LOCATION_ID`: Your Cloudflare account ID
+- `CLOUDFLARE_LOCATION_NAME`: Your Cloudflare location name
+- `DDNS_HOSTNAME`: Your DDNS name
 
 #### By default, I set the action to run as a crontab every hour, but you can change it by yourself.
