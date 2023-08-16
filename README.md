@@ -5,3 +5,5 @@
 - 'CLOUDFLARE_LOCATION_ID': Your Cloudflare account ID
 - 'CLOUDFLARE_LOCATION_NAME': Your Cloudflare location name
 - 'DDNS_HOSTNAME': Your DDNS name
+
+#### By default, I set the action to run as a crontab every hour, but you can change it by yourself.
