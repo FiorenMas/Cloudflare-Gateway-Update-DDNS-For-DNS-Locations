@@ -20,3 +20,4 @@ jobs:
         CLOUDFLARE_LOCATION_ID: ${{ secrets.CLOUDFLARE_LOCATION_ID }}
         CLOUDFLARE_LOCATION_NAME: ${{ secrets.CLOUDFLARE_LOCATION_NAME }}
         DDNS_HOSTNAME: ${{ secrets.DDNS_HOSTNAME }}
+    - uses: gautamkrishnar/keepalive-workflow@v1
