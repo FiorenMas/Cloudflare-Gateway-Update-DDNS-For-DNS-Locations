@@ -15,7 +15,9 @@ curl --request PUT \
   --header "X-Auth-Key: $CLOUDFLARE_API_KEY" \
   --data "{
   \"name\": \"$CLOUDFLARE_LOCATION_NAME\",
+  #Enable EDNS:
   \"ecs_support\": true,
+  #Enable Default Location:
   \"client_default\": true,
   \"networks\": [
 	{\"network\": \"$cidr\"}
